@@ -427,7 +427,7 @@ export default function AsaaseWebsite() {
               <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
                 {[
                   { label: "Email", value: "info@asaasetrading.com", icon: "✉" },
-                  { label: "Phone", value: "+233 XX XXX XXXX", icon: "☎" },
+                  { label: "Phone", value: "+233 508 997 104", icon: "☎" },
                   { label: "Location", value: "Accra, Ghana", icon: "📍" },
                 ].map((c, i) => (
                   <div key={i} style={{ display: "flex", alignItems: "center", gap: 16, justifyContent: "center" }}>
